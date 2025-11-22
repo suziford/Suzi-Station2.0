@@ -314,8 +314,8 @@
   components:
   - type: Appearance
   - type: EntityStorageVisuals
-    stateBaseClosed: med
-    stateDoorOpen: med_open
+    stateBaseClosed: chemical # Orion-Edit
+    stateDoorOpen: chemical_secure_open # Orion-Edit
     stateDoorClosed: chemical_door
   - type: AccessReader
     access: [ [ "Chemistry" ] ]
