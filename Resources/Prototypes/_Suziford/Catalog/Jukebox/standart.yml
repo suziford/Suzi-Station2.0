@@ -154,7 +154,32 @@
   path:
     path: /Audio/_Suziford/Jukebox/WaitC418.ogg
 
+- type: jukebox
+  id: WaitC418
+  name: Wait - C418
+  path:
+    path: /Audio/_Suziford/Jukebox/WaitC418.ogg
+
+- type: jukebox
+  id: IWantThingstoBeBeautiful
+  name: I Want Things to Be Beautiful - Devi McCallion 
+  path:
+    path: /Audio/_Suziford/Jukebox/IWantThingstoBeBeautiful.ogg
+
+- type: jukebox
+  id: NotionJukebox
+  name: Notion - The Rare Occasions
+  path:
+    path: /Audio/_Suziford/Jukebox/Notion.ogg
+
+
+
+
 # ot moloyvaxa
+
+
+
+
 
 - type: jukebox
   id: madk1dchristianpoell
@@ -227,3 +252,36 @@
   name: Armstrong - It Has To Be This Way
   path:
     path: /Audio/_Suziford/Jukebox/moloyvaxa/ihtbtw.ogg
+
+
+
+
+
+# от black_wolf
+
+
+
+
+- type: jukebox
+  id: allForNowLudowic
+  name: All For Now - LudoWic
+  path:
+    path: /Audio/_Suziford/Jukebox/blackwolf/AllforNow.ogg
+
+- type: jukebox
+  id: PrisonAir2Ludowic
+  name: Prison Air 2 - LudoWic
+  path:
+    path: /Audio/_Suziford/Jukebox/blackwolf/PrisonAir2.ogg
+
+- type: jukebox
+  id: ThirdDistrictLudowic
+  name: Third District - LudoWic
+  path:
+    path: /Audio/_Suziford/Jukebox/blackwolf/ThirdDistrict.ogg
+
+- type: jukebox
+  id: LetItHappenJukebox
+  name: Let It Happen - Tame Impala
+  path:
+    path: /Audio/_Suziford/Jukebox/blackwolf/LetItHappen.ogg
