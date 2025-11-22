@@ -155,12 +155,6 @@
     path: /Audio/_Suziford/Jukebox/WaitC418.ogg
 
 - type: jukebox
-  id: WaitC418
-  name: Wait - C418
-  path:
-    path: /Audio/_Suziford/Jukebox/WaitC418.ogg
-
-- type: jukebox
   id: IWantThingstoBeBeautiful
   name: I Want Things to Be Beautiful - Devi McCallion 
   path:
