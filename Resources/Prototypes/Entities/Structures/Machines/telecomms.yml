@@ -149,6 +149,16 @@
           True: { shader: unshaded }
           False: { shader: shaded }
   - type: Appearance
+  - type: SpamEmitSoundRequirePower
+  - type: SpamEmitSound
+    minInterval: 20
+    maxInterval: 60
+    sound:
+      collection: ServerSFX
+      params:
+        volume: -3
+        maxDistance: 5
+        variation: 0.15
   - type: AmbientOnPowered
   - type: AmbientSound
     volume: -9
