@@ -108,5 +108,6 @@ public enum EmoteCategory : byte
     Vocal = 1 << 0,
     Hands = 1 << 1,
     Farts = 1 << 2, // Goobstation - Fart Emotes
+    SuzifordEmotes = 1 << 3,
     General = byte.MaxValue
 }

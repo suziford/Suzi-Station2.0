@@ -101,8 +101,20 @@
       collection: MaleDeathGasp
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/Human/gulp.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
+    WarcryEmoteNew:
+      collection: WarcryMale
 
 - type: emoteSounds
   id: FemaleHuman
@@ -147,8 +159,20 @@
       collection: FemaleDeathGasp
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/Human/gulp.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
+    WarcryEmoteNew:
+      collection: WarcryFemale
 
 - type: emoteSounds ## GOOB CONTENT START
   id: MonkeyMode
@@ -193,6 +217,17 @@
       collection: MaleDeathGasp
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/Human/gulp.ogg ## GOOB CONTENT END
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
+
 
 - type: emoteSounds
   id: MaleReptilian
@@ -227,8 +262,20 @@
     # Floof end
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
+    WarcryEmoteNew:
+      collection: WarcryMale
 
 - type: emoteSounds
   id: FemaleReptilian
@@ -263,8 +310,20 @@
     # Floof end
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
+    WarcryEmoteNew:
+      collection: WarcryFemale
 
 - type: emoteSounds
   id: MaleSlime
@@ -313,8 +372,20 @@
       collection: MaleDeathGasp
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+    WarcryEmoteNew:
+      collection: WarcryMale
+      params:
+        volume: -6
   params:
     variation: 0.125
 
@@ -365,10 +436,22 @@
       collection: FemaleDeathGasp
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
   params:
     variation: 0.125
+    WarcryEmoteNew:
+      collection: WarcryFemale
 
 - type: emoteSounds
   id: UnisexVox
@@ -413,8 +496,18 @@
       path: /Audio/_Goobstation/Voice/Vox/vox_deathgasp.ogg
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
   params:
     variation: 0.125
 
@@ -441,8 +534,18 @@
       collection: DeathGasp
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
   params:
     variation: 0.125
 
@@ -471,10 +574,21 @@
       collection: MaleGasp
     DefaultDeathgasp:
       collection: DeathGasp
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
+
 
 - type: emoteSounds
   id: UnisexDwarf
@@ -517,8 +631,18 @@
       collection: MaleDeathGasp
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/Human/gulp.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
   params:
     variation: 0.125
     pitch: 0.75
@@ -564,8 +688,18 @@
       collection: FemaleDeathGasp
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/Human/gulp.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
   params:
     variation: 0.125
     pitch: 0.75
@@ -601,8 +735,8 @@
       path: /Audio/_Goobstation/Voice/Moth/moth_flap.ogg
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
     RobotBeep:
       collection: RobotBeeps
     Yawn:
@@ -619,6 +753,16 @@
       collection: MaleSneezes
     Cough:
       collection: MaleCoughs
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
 
 - type: emoteSounds
   id: MaleMoth
@@ -651,8 +795,8 @@
       path: /Audio/_Goobstation/Voice/Moth/moth_flap.ogg
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
     RobotBeep:
       collection: RobotBeeps
     Yawn:
@@ -669,6 +813,18 @@
       collection: MaleSneezes
     Cough:
       collection: MaleCoughs
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
+    WarcryEmoteNew:
+      collection: WarcryMale
 
 - type: emoteSounds
   id: FemaleMoth
@@ -701,8 +857,8 @@
       path: /Audio/_Goobstation/Voice/Moth/moth_flap.ogg
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
     RobotBeep:
       collection: RobotBeeps
     Yawn:
@@ -719,6 +875,17 @@
       collection: FemaleSneezes
     Cough:
       collection: FemaleCoughs
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
+
 
 - type: emoteSounds
   id: UnisexSilicon
@@ -765,8 +932,19 @@
       path: /Audio/_EinsteinEngines/Voice/IPC/pai_whistle.ogg
       params:
         variation: 0.125
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
+
 
 - type: emoteSounds
   id: UnisexSiliconSyndicate
@@ -805,8 +983,20 @@
       path: /Audio/_EinsteinEngines/Voice/IPC/pai_whistle.ogg
       params:
         variation: 0.125
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+      params:
+        volume: -6
+
+
 
 - type: emoteSounds
   id: UnisexSiliconXenoborg
@@ -838,8 +1028,16 @@
         variation: 0.125
     Whistle:
       path: /Audio/Voice/Xenoborg/xenoborg_chime.ogg
+    SillyLaugh3:
+      path: /Audio/_Suziford/Voice/Emotes/sillyLaugh.ogg
+    BuzzCorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_correct.ogg
+    BuzzIncorrectEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
+    YippeeeEmote:
+      path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
       params:
-        variation: 0.125
+        volume: -6
     # Surprised: # Goob Commented by CorvaxGoob
       # path: /Audio/_Goobstation/Voice/surprised.ogg
 
@@ -857,6 +1055,15 @@
       collection: Salutes
     Crack: # Imp
       collection: Cracks # Imp
+    EmotePoseSound:
+      path: /Audio/_Suziford/Voice/Emotes/phillyhit.ogg
+    BuffEmote:
+      path: /Audio/_Suziford/Voice/Emotes/buff.ogg
+    BlinkEmote:
+      path: /Audio/_Suziford/Voice/Emotes/blink.ogg
+    TerrorEmote:
+      path: /Audio/_Suziford/Voice/Emotes/terror1.ogg
+
 
 - type: emoteSounds
   id: DionaBodyEmotes
