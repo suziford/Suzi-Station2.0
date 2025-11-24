@@ -7,6 +7,7 @@
   <Box>
     <GuideEntityEmbed Entity="Bible"/>
     <GuideEntityEmbed Entity="Nullrod"/>
+    <GuideEntityEmbed Entity="ArmamentsBeacon"/>
   </Box>
 
 ## Религии:
@@ -18,6 +19,7 @@
     <GuideEntityEmbed Entity="AltarBananium"/>
     <GuideEntityEmbed Entity="AltarChaos"/>
     <GuideEntityEmbed Entity="AltarDruid"/>
+    <GuideEntityEmbed Entity="AltarClock"/>
   </Box>
   <Box>
     <GuideEntityEmbed Entity="AltarFangs"/>
@@ -33,6 +35,7 @@
 
 Эти алтари можно построить, поместив соответствующую жертву на базовый алтарь конвертации:
 
+
 - Алтарь бананиума: 1 × бананиум
 - Алтарь хаоса: 1 × плазма
 - Алтарь друидов: 1 × деревянная доска
@@ -44,10 +47,25 @@
 - Алтарь технологии: 1 × конденсатор
 - Алтарь инструментов: 1 × ящик с инструментами
 
+- Bananium Altar: 1 x Bananium
+- Chaos Altar: 1 x Plasma
+- Druid Altar: 1 x Wooden Plank
+- Fanged Altar: 1 x Raw Meat
+- Heaven Altar: 1 x Templar Helmet
+- Maints Altar: 1 x Budget Insulated Gloves
+- Nanotrasen Altar: 1 x Plasteel
+- Space-Christian Altar: 1 x Nun Hood
+- Technology Altar: 1 x Capacitor
+- Toolbox Altar: 1 x Toolbox
+- Clockwork Altar: 1 x Small Power Cell
+
 ## Священные артефакты
 
 ### Доспехи крестоносца
 Устаревший набор лат, который использовался во времена священных походов. Обеспечивает приличную защиту. Ношение доспехов слегка замедляет вашу скорость передвижения.
+
+### Armaments Beacon
+Allows you to choose a set of armor. All armors have identical stats.
 
 ### Жезл Нуля
 Обсидиановый жезл — ваша защита от сил зла. [color=blue][bold] Если он у вас в руках, вы полностью защищены от магии. [/bold][/color]
