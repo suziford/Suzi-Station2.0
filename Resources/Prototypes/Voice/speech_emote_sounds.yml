@@ -508,6 +508,8 @@
       path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
       params:
         volume: -6
+    WarcryEmoteNew:
+      collection: WarcryMale
   params:
     variation: 0.125
 
@@ -546,6 +548,8 @@
       path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
       params:
         volume: -6
+    WarcryEmoteNew:
+      collection: WarcryMale
   params:
     variation: 0.125
 
@@ -588,6 +592,8 @@
       path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
       params:
         volume: -6
+    WarcryEmoteNew:
+      collection: WarcryMale
 
 
 - type: emoteSounds
@@ -643,6 +649,8 @@
       path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
       params:
         volume: -6
+    WarcryEmoteNew:
+      collection: WarcryMale
   params:
     variation: 0.125
     pitch: 0.75
@@ -700,6 +708,8 @@
       path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
       params:
         volume: -6
+    WarcryEmoteNew:
+      collection: WarcryFemale
   params:
     variation: 0.125
     pitch: 0.75
@@ -763,6 +773,8 @@
       path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
       params:
         volume: -6
+    WarcryEmoteNew:
+      collection: WarcryMale
 
 - type: emoteSounds
   id: MaleMoth
@@ -885,6 +897,8 @@
       path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
       params:
         volume: -6
+    WarcryEmoteNew:
+      collection: WarcryFemale
 
 
 - type: emoteSounds
@@ -944,6 +958,8 @@
       path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
       params:
         volume: -6
+    WarcryEmoteNew:
+      collection: WarcryMale
 
 
 - type: emoteSounds
@@ -995,6 +1011,8 @@
       path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
       params:
         volume: -6
+    WarcryEmoteNew:
+      collection: WarcryMale
 
 
 
@@ -1036,10 +1054,12 @@
       path: /Audio/_Suziford/Voice/Emotes/buzzer_incorrect.ogg
     YippeeeEmote:
       path: /Audio/_Suziford/Voice/Emotes/yippee.ogg
+    WarcryEmoteNew:
+      collection: WarcryMale
       params:
         volume: -6
-    # Surprised: # Goob Commented by CorvaxGoob
-      # path: /Audio/_Goobstation/Voice/surprised.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
 
 # body emotes
 - type: emoteSounds
