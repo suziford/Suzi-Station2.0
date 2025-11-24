@@ -1,0 +1,17 @@
+- type: lobbyBackground
+  id: NOGORLEX
+  background: /Textures/_Suziford/LobbyScreens/NOGORLEX.webp
+  name: NOGORLEX
+  artist: Adventure Time
+
+- type: lobbyBackground
+  id: singuloose
+  background: /Textures/_Suziford/LobbyScreens/singulo_run.webp
+  name: Singuloose
+  artist: Adventure Time
+
+- type: lobbyBackground
+  id: starbow
+  background: /Textures/_Suziford/LobbyScreens/starbow.webp
+  name: Starbow
+  artist: Adventure Time
