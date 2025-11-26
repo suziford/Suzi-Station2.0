@@ -15,3 +15,15 @@
   background: /Textures/_Suziford/LobbyScreens/starbow.webp
   name: Starbow
   artist: Adventure Time
+
+- type: lobbyBackground
+  id: starbow
+  background: /Textures/_Suziford/LobbyScreens/Battered.png
+  name: Battered
+  artist: Nairodian
+
+- type: lobbyBackground
+  id: starbow
+  background: /Textures/_Suziford/LobbyScreens/terminalstation.webp
+  name: terminal station
+  artist: aserovich
