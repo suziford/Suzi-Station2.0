@@ -41,10 +41,10 @@
     path: /Audio/_Suziford/Jukebox/GS_3.ogg
 
 - type: jukebox
-  id: hullrotCombatMusic2
-  name: Hullrot Combat 2
+  id: CountdownEFT
+  name: Countdown - Geneburn
   path:
-    path: /Audio/_Suziford/Jukebox/GS_1.ogg
+    path: /Audio/_Suziford/Jukebox/Countdown.ogg
 
 - type: jukebox
   id: hullrotCombatMusic3
@@ -166,6 +166,89 @@
   path:
     path: /Audio/_Suziford/Jukebox/Notion.ogg
 
+- type: jukebox
+  id: JustTwoOfUs
+  name: Just Two of Us - Grover Washington
+  path:
+    path: /Audio/_Suziford/Jukebox/JusttheTwoOfUs.ogg
+
+- type: jukebox
+  id: TheCyberGrind
+  name: The Cyber Grind - meganeko
+  path:
+    path: /Audio/_Suziford/Jukebox/TheCyberGrind.ogg
+
+- type: jukebox
+  id: VersusJukebox
+  name: Versus - Heaven Pierce Her
+  path:
+    path: /Audio/_Suziford/Jukebox/Versus.ogg
+
+- type: jukebox
+  id: IReallyWanttoStayatYourHouse
+  name: I Really Want to Stay at Your House - Rosa Walton
+  path:
+    path: /Audio/_Suziford/Jukebox/IReallyWanttoStayatYourHouse.ogg
+
+- type: jukebox
+  id: TheFireIsGone
+  name: The Fire Is Gone - Heaven Pierce Her
+  path:
+    path: /Audio/_Suziford/Jukebox/TheFireIsGone.ogg
+
+- type: jukebox
+  id: WhereIsMyMind
+  name: Where Is My Mind - Pixies
+  path:
+    path: /Audio/_Suziford/Jukebox/WhereIsMyMind.ogg
+
+- type: jukebox
+  id: 70KJukebox
+  name: 70K - Mike Klubnika
+  path:
+    path: /Audio/_Suziford/Jukebox/70K.ogg
+
+- type: jukebox
+  id: BALDJukebox
+  name: BALD! - JPEGMAFIA
+  path:
+    path: /Audio/_Suziford/Jukebox/BALD.ogg
+
+- type: jukebox
+  id: BlankShell
+  name: Blank Shell - Mike Klubnika
+  path:
+    path: /Audio/_Suziford/Jukebox/BlankShell.ogg
+
+- type: jukebox
+  id: NoirVsForebodingBass
+  name: Noir vs Foreboding Bass - Dan Liston
+  path:
+    path: /Audio/_Suziford/Jukebox/NoirVsForebodingBass.ogg
+
+- type: jukebox
+  id: PoliceTheme
+  name: Police Theme - Zack Bower
+  path:
+    path: /Audio/_Suziford/Jukebox/PoliceTheme.ogg
+
+- type: jukebox
+  id: YouareanAngel
+  name: You are an Angel - Mike Klubnika
+  path:
+    path: /Audio/_Suziford/Jukebox/YouareanAngel.ogg
+
+- type: jukebox
+  id: CycleJukebox
+  name: Cycle - Icky Blossoms
+  path:
+    path: /Audio/_Suziford/Jukebox/Cycle.ogg
+
+#- type: jukebox
+#  id: 
+#  name: 
+#  path:
+#    path: /Audio/_Suziford/Jukebox/
 
 
 
